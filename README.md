@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amantiwari2357
-- 👀 I’m interested in web development (full dtsck development)
+- 👀 I’m interested in web development (full stack development)
 - 🌱 I’m currently learning computer science and engineering.
 - 💞️ I’m looking to collaborate on any software developer
 - 📫 How to reach me ...
