@@ -17,5 +17,6 @@ I'm a full-stack developer passionate about building admin panels, web apps, and
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=think-aman&show_icons=true&theme=radical&cache_seconds=3600)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)
+
 
