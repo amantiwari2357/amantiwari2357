@@ -58,9 +58,11 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 
 **Bachelor of Technology (B.Tech)** – Computer Science & Engineering  
 📍 *Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow*  
-🗓️ *Graduation Year: 2023*
+🗓️ *Graduation Year: 2025*
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)  
+
 
 ## 🤝 Let's Collaborate
 
@@ -74,6 +76,8 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - Performance optimization  
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)  
+
 ## 🌐 Online Presence
 
 - 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
