@@ -13,6 +13,8 @@ I'm a full-stack developer passionate about building admin panels, web apps, and
 - [Twitter](https://twitter.com/https://x.com/amantiwari2357)
 - [Website](https://your-website.com)
 
+## 🌱 Current Focus
+I'm currently working on a **React** application with **Node.js** and **MongoDB** as the backend. I'm also learning about **GraphQL** and **TypeScript**.
 
 
 ## 🛠️ Technologies I use
@@ -22,6 +24,9 @@ I'm a full-stack developer passionate about building admin panels, web apps, and
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ...
 
 ## 📈 GitHub Stats
@@ -29,3 +34,5 @@ I'm a full-stack developer passionate about building admin panels, web apps, and
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)
 
 
+## 💬 Let's Collaborate
+I'm always open to collaborating on exciting open-source projects! Feel free to reach out to me if you need help or want to collaborate.
