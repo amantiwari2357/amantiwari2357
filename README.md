@@ -51,7 +51,7 @@ Worked on various client projects involving custom dashboards, admin panels, CMS
 **Digi India solution – Software development and service company**  
 Helped build internal tools and admin systems for campaign monitoring and analytics dashboards.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)  
 
 
 ## 🎓 Education
@@ -75,8 +75,6 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - Authentication and role-based access  
 - Performance optimization  
 
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)  
 
 ## 🌐 Online Presence
 
