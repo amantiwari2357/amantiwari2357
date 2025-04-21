@@ -56,6 +56,12 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 
 ---
 
+## 📈 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
+
+---
 ## 🌐 Online Presence
 
 - 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
@@ -63,13 +69,6 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 - 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
 - 💻 [**GitHub**](https://github.com/digiindia2025)  
 - 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
-
----
-
-## 📈 GitHub Stats
-
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 ---
 
