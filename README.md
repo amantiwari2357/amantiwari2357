@@ -75,6 +75,8 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - Authentication and role-based access  
 - Performance optimization  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+
 
 ## 🌐 Online Presence
 
