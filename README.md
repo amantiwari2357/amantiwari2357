@@ -40,7 +40,20 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 ## 📈 GitHub Stats
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)  
+
+## 💼 Professional Experience
+
+### 🔹 Freelance Full-Stack Developer  
+**Remote | 2022 - Present**  
+Worked on various client projects involving custom dashboards, admin panels, CMS integrations, and scalable backend APIs.
+
+### 🔹 Web Developer Intern  
+**Digi India solution – Software development and service company**  
+Helped build internal tools and admin systems for campaign monitoring and analytics dashboards.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
+
+
 
 ## 🌐 Online Presence
 
@@ -60,17 +73,6 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 🗓️ *Graduation Year: 2023*
 
 ---
-
-## 💼 Professional Experience
-
-### 🔹 Freelance Full-Stack Developer  
-**Remote | 2022 - Present**  
-Worked on various client projects involving custom dashboards, admin panels, CMS integrations, and scalable backend APIs.
-
-### 🔹 Web Developer Intern  
-**Digi India solution – Software development and service company**  
-Helped build internal tools and admin systems for campaign monitoring and analytics dashboards.
-
 
 ## 🤝 Let's Collaborate
 
