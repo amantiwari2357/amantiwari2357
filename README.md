@@ -62,6 +62,8 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
+
 
 
 ## 🤝 Let's Collaborate
@@ -73,10 +75,11 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - Backend/API development  
 - MongoDB schema design  
 - Authentication and role-based access  
-- Performance optimization  
+- Performance optimization
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+- ## 📊 GitHub Metrics & Insights
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" />
 
 ## 🌐 Online Presence
 
@@ -88,9 +91,6 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 
 ---
 ## 📊 GitHub Metrics & Insights
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
 
@@ -99,3 +99,5 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - 🐛 I *genuinely* enjoy debugging (weird, I know 😅)  
 - 🎨 I'm obsessed with clean UI/UX and pixel-perfect layouts  
 - 🎯 Always chasing that perfect balance of performance + usability
+- [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+
