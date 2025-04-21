@@ -81,15 +81,6 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" />
 
-## 🌐 Online Presence
-
-- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
-- 💻 [**GitHub**](https://github.com/digiindia2025)  
-- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
-
----
 ## 📊 GitHub Metrics & Insights
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
@@ -99,6 +90,14 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - 🐛 I *genuinely* enjoy debugging (weird, I know 😅)  
 - 🎨 I'm obsessed with clean UI/UX and pixel-perfect layouts  
 - 🎯 Always chasing that perfect balance of performance + usability
-- 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+
+## 🌐 Online Presence
+
+- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
+- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
+- 💻 [**GitHub**](https://github.com/digiindia2025)  
+- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
 
