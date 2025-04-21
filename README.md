@@ -51,7 +51,7 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 Worked on various client projects involving custom dashboards, admin panels, CMS integrations, and scalable backend APIs.
 
 ### 🔹 Web Developer Intern  
-**Digi India – Digital Marketing Company**  
+**Digi India solution – Software development and service company**  
 Helped build internal tools and admin systems for campaign monitoring and analytics dashboards.
 
 ---
