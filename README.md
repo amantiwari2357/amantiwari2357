@@ -54,18 +54,6 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 
-
-## 🌐 Online Presence
-
-- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
-- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
-- 💻 [**GitHub**](https://github.com/digiindia2025)  
-- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
-
----
-
-
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech)** – Computer Science & Engineering  
@@ -86,6 +74,16 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - Performance optimization  
 
 ---
+## 🌐 Online Presence
+
+- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
+- 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
+- 💻 [**GitHub**](https://github.com/digiindia2025)  
+- 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
+
+---
+
 
 ## ⚡ Fun Facts
 
