@@ -8,6 +8,11 @@ I'm a full-stack developer passionate about building admin panels, web apps, and
 - 💬 Ask me about: Frontend architectures, backend development, performance optimization, authentication, and admin dashboard workflows
 - 📫 How to reach me: [amankumartiwari5255@gmail.com](mailto:amankumartiwari5255@gmail.com)
 - ⚡ Fun fact: I love debugging more than writing code (sometimes 😅) and I enjoy fine-tuning UI/UX for that perfect feel
+- ## My Social Media
+- - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/aman-tiwari-91b869225/)
+- [Twitter](https://twitter.com/https://x.com/amantiwari2357)
+- [Website](https://your-website.com)
+
 
 
 ## 🛠️ Technologies I use
