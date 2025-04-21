@@ -99,5 +99,6 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - 🐛 I *genuinely* enjoy debugging (weird, I know 😅)  
 - 🎨 I'm obsessed with clean UI/UX and pixel-perfect layouts  
 - 🎯 Always chasing that perfect balance of performance + usability
+- 
 - [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
 
