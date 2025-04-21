@@ -87,9 +87,12 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 - 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
 
 ---
-![Metrics](https://metrics.lecoq.io/digiindia2025?template=classic&config.timezone=Asia%2FCalcutta)
+## 📊 GitHub Metrics & Insights
 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
 
 ## ⚡ Fun Facts
 
