@@ -5,7 +5,7 @@ I'm a full-stack developer passionate about building admin panels, web apps, and
 - 🔭 I’m currently working on: Think.Aman Admin Panel
 - 🌱 I’m learning: TypeScript, MongoDB, and clean backend architecture
 - 💬 Ask me about: React, Express, Tailwind, Git
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [amankumartiwari5255@gmail.com](mailto:amankumartiwari5255@gmail.com)
 - ⚡ Fun fact: I love debugging more than writing code (sometimes 😅)
 
 ## 🛠️ Technologies I use
