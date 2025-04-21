@@ -2,11 +2,13 @@
 
 I'm a full-stack developer passionate about building admin panels, web apps, and scalable systems.
 
-- 🔭 I’m currently working on: Think.Aman Admin Panel
-- 🌱 I’m learning: TypeScript, MongoDB, and clean backend architecture
-- 💬 Ask me about: React, Express, Tailwind, Git
+- 🔭 I’m currently working on: Node.js, REST APIs, and dynamic admin dashboards
+- 🌱 I’m learning: TypeScript, MongoDB, Firebase, clean backend architecture, and scalable system design
+- 💻 Tech I enjoy working with: React, Next.js, TypeScript, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, Git, Redux, Mongoose, RESTful APIs
+- 💬 Ask me about: Frontend architectures, backend development, performance optimization, authentication, and admin dashboard workflows
 - 📫 How to reach me: [amankumartiwari5255@gmail.com](mailto:amankumartiwari5255@gmail.com)
-- ⚡ Fun fact: I love debugging more than writing code (sometimes 😅)
+- ⚡ Fun fact: I love debugging more than writing code (sometimes 😅) and I enjoy fine-tuning UI/UX for that perfect feel
+
 
 ## 🛠️ Technologies I use
 
