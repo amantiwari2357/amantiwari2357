@@ -2,6 +2,8 @@
 
 I'm a passionate **Full-Stack Developer** who loves crafting **robust admin panels**, **high-performance web applications**, and **scalable backend systems**. Whether it's building from scratch or optimizing existing stacks, I enjoy turning ideas into reality with clean code and thoughtful design.
 
+[📄 View My Resume](https://drive.google.com/file/d/14SRgyyDHhof4rNlkH6mKlYnp7RgrMVfy/view?usp=drive_link)
+
 ---
 
 ## 🧰 Tech Stack & Tools
