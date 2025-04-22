@@ -23,6 +23,8 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=linux)
+![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 
 ---
 
