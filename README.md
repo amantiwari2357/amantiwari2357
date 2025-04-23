@@ -4,9 +4,6 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 
 [📄 Download My Resume](https://drive.google.com/file/d/14SRgyyDHhof4rNlkH6mKlYnp7RgrMVfy/view?usp=drive_link)
 
-
----
-
 ## 🧰 Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -36,11 +33,7 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 - 🧩 **Admin Dashboards** using React + Tailwind + Redux  
 - 🔗 RESTful **API development** with Express.js & MongoDB  
 - 🧱 Modular and scalable backend architecture  
-- 🧠 Learning **GraphQL**, **Clean Code principles**, and **System Design**  
 - 📦 Building reusable components and internal libraries for better DX  
-
----
----
 
 ## 📈 GitHub Stats
 
@@ -49,7 +42,7 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 ## 💼 Professional Experience
 
 ### 🔹 Freelance Full-Stack Developer  
-**Remote | 2022 - Present**  
+**Remote | jun 2024 - Dec 2024**  
 Worked on various client projects involving custom dashboards, admin panels, CMS integrations, and scalable backend APIs.
 
 ### 🔹 Web Developer Intern  
@@ -64,12 +57,8 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 **Bachelor of Technology (B.Tech)** – Computer Science & Engineering  
 📍 *Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow*  
 🗓️ *Graduation Year: 2025*
-
----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
-
-
 
 ## 🤝 Let's Collaborate
 
