@@ -57,6 +57,7 @@ Helped build internal tools and admin systems for campaign monitoring and analyt
 **Bachelor of Technology (B.Tech)** – Computer Science & Engineering  
 📍 *Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow*  
 🗓️ *Graduation Year: 2025*
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
