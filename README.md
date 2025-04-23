@@ -37,7 +37,7 @@ I'm a passionate **Full-Stack Developer** who loves crafting **robust admin pane
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
 
 ## 💼 Professional Experience
