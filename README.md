@@ -51,6 +51,7 @@ Worked on various client projects involving custom dashboards, admin panels, CMS
 Helped build internal tools and admin systems for campaign monitoring and analytics dashboards.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)  
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 
 ## 🎓 Education
