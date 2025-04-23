@@ -77,8 +77,8 @@ I'm always open to exciting freelance projects, startup collabs, or open-source 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" />
 
 ## 📊 GitHub Metrics & Insights
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
+
 
 ## ⚡ Fun Facts
 
