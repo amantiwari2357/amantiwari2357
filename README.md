@@ -42,10 +42,9 @@ I'm a passionate **Full-Stack Developer**
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
 ## 💼 Professional Experience
-<table>
+<table width="100%">
   <tr>
-    <!-- Experience 1 -->
-    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
+    <td valign="top" style="background-color:#0d1117; border-radius:10px; padding:20px; color:white;">
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
         <h3>🔹 Web Developer Intern</h3>
@@ -57,10 +56,9 @@ I'm a passionate **Full-Stack Developer**
         <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
         <li>Worked on responsive layouts and improved user flow.</li>
       </ul>
-    </td>
 
-    <!-- Experience 2 -->
-    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
+      <hr style="margin: 20px 0; border: 1px solid #333;"/>
+
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
         <h3>🔹 Web Developer Intern</h3>
