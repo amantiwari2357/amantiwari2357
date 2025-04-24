@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Aman Tiwari
 
-I'm a passionate **Full-Stack Developer** who loves crafting **robust admin panels**, **high-performance web applications**, and **scalable backend systems**. Whether it's building from scratch or optimizing existing stacks, I enjoy turning ideas into reality with clean code and thoughtful design.
+I'm a passionate **Full-Stack Developer**
+📚 I’ve worked on diverse systems including:
+
+- 📊 **CRM Platforms**
+- 🎓 **Learning Management Systems (LMS)**
+- 🏫 **School Management Systems**
+- 🛒 **E-Commerce Dashboards**
+- 🌐 **Real-Time Data Apps**
+
+🌱 Currently exploring cloud deployments, system design, and AI integrations.
 
 [📄 Download My Resume](https://drive.google.com/file/d/14SRgyyDHhof4rNlkH6mKlYnp7RgrMVfy/view?usp=drive_link)
 
