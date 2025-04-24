@@ -42,23 +42,24 @@ I'm a passionate **Full-Stack Developer**
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
 ## 💼 Professional Experience
-
 <table>
   <tr>
-    <!-- Experience 1 -->
-    <td width="50%" valign="top">
-      <div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 15px; color: white;">
+    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
+      <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
         <h3>🔹 Web Developer Intern</h3>
         <p><strong>Digi India Solution</strong></p>
         <p style="font-size: 14px;">Software Development & Service Company</p>
-        <ul align="left">
-          <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
-          <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
-          <li>Worked on responsive layouts and improved user flow.</li>
-        </ul>
       </div>
+      <ul>
+        <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
+        <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
+        <li>Worked on responsive layouts and improved user flow.</li>
+      </ul>
     </td>
+  </tr>
+</table>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
