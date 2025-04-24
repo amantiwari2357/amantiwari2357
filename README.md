@@ -44,7 +44,7 @@ I'm a passionate **Full-Stack Developer**
 ## 💼 Professional Experience
 <table>
   <tr>
-    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
+    <td width="100%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
         <h3>🔹 Web Developer Intern</h3>
