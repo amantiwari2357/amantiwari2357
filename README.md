@@ -60,25 +60,6 @@ I'm a passionate **Full-Stack Developer**
       </div>
     </td>
 
-    <!-- Experience 2 -->
-    <td width="50%" valign="top">
-      <div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 15px; color: white;">
-        <img src="https://cdn-icons-png.flaticon.com/512/1150/1150620.png" width="60px" alt="Freelancer Icon"><br/>
-        <h3>🔹 Freelance Web Developer</h3>
-        <p><strong>Remote Projects</strong></p>
-        <p style="font-size: 14px;">Worked with multiple clients worldwide</p>
-        <ul align="left">
-          <li>Delivered <strong>CRM, LMS, and School Management Systems</strong>.</li>
-          <li>Handled <strong>end-to-end development</strong> using MERN stack.</li>
-          <li>Managed APIs, UI/UX, and optimized backend logic.</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 
