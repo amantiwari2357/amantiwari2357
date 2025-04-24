@@ -37,13 +37,6 @@ I'm a passionate **Full-Stack Developer**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ---
 
-## 🚀 What I’m Working On
-
-- 🧩 **Admin Dashboards** using React + Tailwind + Redux  
-- 🔗 RESTful **API development** with Express.js & MongoDB  
-- 🧱 Modular and scalable backend architecture  
-- 📦 Building reusable components and internal libraries for better DX  
-
 ## 📈 GitHub Stats
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
