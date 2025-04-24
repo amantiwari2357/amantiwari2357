@@ -58,6 +58,22 @@ I'm a passionate **Full-Stack Developer**
       </ul>
     </td>
   </tr>
+</table> <table>
+  <tr>
+    <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
+      <div align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
+        <h3>🔹 Web Developer Intern</h3>
+        <p><strong>Digi India Solution</strong></p>
+        <p style="font-size: 14px;">Software Development & Service Company</p>
+      </div>
+      <ul>
+        <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
+        <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
+        <li>Worked on responsive layouts and improved user flow.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 
