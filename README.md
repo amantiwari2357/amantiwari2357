@@ -45,31 +45,21 @@ I'm a passionate **Full-Stack Developer**
 <table width="100%">
   <tr>
     <td valign="top" style="background-color:#0d1117; border-radius:10px; padding:20px; color:white;">
+      
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
         <h3>🔹 Web Developer Intern</h3>
         <p><strong>Digi India Solution</strong></p>
         <p style="font-size: 14px;">Software Development & Service Company</p>
       </div>
+      
       <ul>
-        <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
-        <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
-        <li>Worked on responsive layouts and improved user flow.</li>
+        <li>Developed internal tools for <strong>campaign performance tracking</strong>.</li>
+        <li>Built dynamic <strong>admin dashboards</strong> using React & Chart.js.</li>
+        <li>Enhanced UI/UX by implementing responsive layouts and user-friendly flows.</li>
+        <li>Collaborated with backend team to integrate and test API functionalities.</li>
       </ul>
 
-      <hr style="margin: 20px 0; border: 1px solid #333;"/>
-
-      <div align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
-        <h3>🔹 Web Developer Intern</h3>
-        <p><strong>Digi India Solution</strong></p>
-        <p style="font-size: 14px;">Software Development & Service Company</p>
-      </div>
-      <ul>
-        <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
-        <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
-        <li>Worked on responsive layouts and improved user flow.</li>
-      </ul>
     </td>
   </tr>
 </table>
