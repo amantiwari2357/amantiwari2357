@@ -45,8 +45,8 @@ I'm a passionate **Full-Stack Developer**
 
 <table>
   <tr>
-    <td width="100px">
-      <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="80px" alt="Web Developer">
+    <td width="110px">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="200px" alt="Web Developer">
     </td>
     <td>
       <h3>🔹 Web Developer Intern</h3>
