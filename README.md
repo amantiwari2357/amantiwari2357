@@ -41,12 +41,7 @@ I'm a passionate **Full-Stack Developer**
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
-
 ## 💼 Professional Experience
-
-### 🔹 Freelance Full-Stack Developer  
-**Remote | jun 2024 - Dec 2024**  
-Worked on various client projects involving custom dashboards, admin panels, CMS integrations, and scalable backend APIs.
 
 ### 🔹 Web Developer Intern  
 **Digi India solution – Software development and service company**  
