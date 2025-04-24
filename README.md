@@ -58,7 +58,7 @@ I'm a passionate **Full-Stack Developer**
       </ul>
     </td>
   </tr>
-</table> <table>
+
   <tr>
     <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
       <div align="center">
