@@ -42,23 +42,29 @@ I'm a passionate **Full-Stack Developer**
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
 ## 💼 Professional Experience
-<table>
+<table width="100%">
   <tr>
-    <td width="100%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
+    <td valign="top" style="background-color:#0d1117; border-radius:10px; padding:20px; color:white; font-family:Arial, sans-serif;">
+      
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
         <h3>🔹 Web Developer Intern</h3>
         <p><strong>Digi India Solution</strong></p>
-        <p style="font-size: 14px;">Software Development & Service Company</p>
+        <p style="font-size: 14px; color: #c9d1d9;">Software Development & Service Company | Remote</p>
+        <p style="font-size: 13px; color: #8b949e;">Jan 2023 – Jun 2023</p>
       </div>
-      <ul>
-        <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
-        <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
-        <li>Worked on responsive layouts and improved user flow.</li>
+      
+      <ul style="font-size: 14px; padding-left: 20px;">
+        <li>Developed internal tools to streamline <strong>campaign monitoring workflows</strong>, improving reporting speed by 30%.</li>
+        <li>Created <strong>interactive admin dashboards</strong> using <strong>React.js</strong> and <strong>Chart.js</strong> for real-time analytics visualization.</li>
+        <li>Refined UI/UX and implemented fully <strong>responsive layouts</strong> using <strong>Tailwind CSS</strong>, boosting user engagement across devices.</li>
+        <li>Collaborated with cross-functional teams to debug and integrate <strong>RESTful APIs</strong> efficiently.</li>
       </ul>
+
     </td>
   </tr>
 </table>
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
