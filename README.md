@@ -43,9 +43,23 @@ I'm a passionate **Full-Stack Developer**
 
 ## 💼 Professional Experience
 
-### 🔹 Web Developer Intern  
-**Digi India solution – Software development and service company**  
-Helped build internal tools and admin systems for campaign monitoring and analytics dashboards.
+<table>
+  <tr>
+    <td width="100px">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="80px" alt="Web Developer">
+    </td>
+    <td>
+      <h3>🔹 Web Developer Intern</h3>
+      <p><strong>Digi India Solution</strong> – Software Development & Service Company</p>
+      <ul>
+        <li>Developed internal tools for <strong>campaign monitoring</strong> and <strong>analytics dashboards</strong>.</li>
+        <li>Built <strong>responsive admin systems</strong> using modern web technologies.</li>
+        <li>Collaborated with teams to enhance UX and deliver business insights.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
