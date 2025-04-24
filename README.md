@@ -45,20 +45,38 @@ I'm a passionate **Full-Stack Developer**
 
 <table>
   <tr>
-    <td width="110px">
-      <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="200px" alt="Web Developer">
+    <!-- Experience 1 -->
+    <td width="50%" valign="top">
+      <div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 15px; color: white;">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
+        <h3>🔹 Web Developer Intern</h3>
+        <p><strong>Digi India Solution</strong></p>
+        <p style="font-size: 14px;">Software Development & Service Company</p>
+        <ul align="left">
+          <li>Built internal tools for <strong>campaign monitoring</strong>.</li>
+          <li>Designed <strong>admin dashboards</strong> and internal analytics.</li>
+          <li>Worked on responsive layouts and improved user flow.</li>
+        </ul>
+      </div>
     </td>
-    <td>
-      <h3>🔹 Web Developer Intern</h3>
-      <p><strong>Digi India Solution</strong> – Software Development & Service Company</p>
-      <ul>
-        <li>Developed internal tools for <strong>campaign monitoring</strong> and <strong>analytics dashboards</strong>.</li>
-        <li>Built <strong>responsive admin systems</strong> using modern web technologies.</li>
-        <li>Collaborated with teams to enhance UX and deliver business insights.</li>
-      </ul>
+
+    <!-- Experience 2 -->
+    <td width="50%" valign="top">
+      <div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 15px; color: white;">
+        <img src="https://cdn-icons-png.flaticon.com/512/1150/1150620.png" width="60px" alt="Freelancer Icon"><br/>
+        <h3>🔹 Freelance Web Developer</h3>
+        <p><strong>Remote Projects</strong></p>
+        <p style="font-size: 14px;">Worked with multiple clients worldwide</p>
+        <ul align="left">
+          <li>Delivered <strong>CRM, LMS, and School Management Systems</strong>.</li>
+          <li>Handled <strong>end-to-end development</strong> using MERN stack.</li>
+          <li>Managed APIs, UI/UX, and optimized backend logic.</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
