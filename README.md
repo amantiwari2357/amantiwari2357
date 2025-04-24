@@ -44,6 +44,7 @@ I'm a passionate **Full-Stack Developer**
 ## 💼 Professional Experience
 <table>
   <tr>
+    <!-- Experience 1 -->
     <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
@@ -57,9 +58,8 @@ I'm a passionate **Full-Stack Developer**
         <li>Worked on responsive layouts and improved user flow.</li>
       </ul>
     </td>
-  </tr>
 
-  <tr>
+    <!-- Experience 2 -->
     <td width="50%" valign="top" style="background-color:#0d1117; border-radius:10px; padding:15px; color:white;">
       <div align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
@@ -75,6 +75,7 @@ I'm a passionate **Full-Stack Developer**
     </td>
   </tr>
 </table>
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
