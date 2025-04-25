@@ -46,15 +46,15 @@ I'm a passionate **Full-Stack Developer**
   <tr>
     <td valign="top" style="background-color:#0d1117; border-radius:10px; padding:20px; color:white; font-family:Arial, sans-serif;">
       
-      <div align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60px" alt="Web Dev Icon"><br/>
-        <h3>🔹 Web Developer Intern</h3>
-        <p><strong>Digi India Solution</strong></p>
-        <p style="font-size: 14px; color: #c9d1d9;">Software Development & Service Company | Remote</p>
-        <p style="font-size: 13px; color: #8b949e;">Jan 2023 – Jun 2023</p>
+      <div align="center" style="margin-bottom: 15px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60" alt="Web Dev Icon" /><br/>
+        <h3 style="margin: 10px 0 5px;">🔹 Web Developer Intern</h3>
+        <p style="margin: 0;"><strong>Digi India Solution</strong></p>
+        <p style="font-size: 14px; color: #c9d1d9; margin: 5px 0 0;">Software Development & Service Company | Remote</p>
+        <p style="font-size: 13px; color: #8b949e; margin: 2px 0 0;">Jan 2023 – Jun 2023</p>
       </div>
       
-      <ul style="font-size: 14px; padding-left: 20px;">
+      <ul style="font-size: 14px; padding-left: 20px; margin: 0;">
         <li>Developed internal tools to streamline <strong>campaign monitoring workflows</strong>, improving reporting speed by 30%.</li>
         <li>Created <strong>interactive admin dashboards</strong> using <strong>React.js</strong> and <strong>Chart.js</strong> for real-time analytics visualization.</li>
         <li>Refined UI/UX and implemented fully <strong>responsive layouts</strong> using <strong>Tailwind CSS</strong>, boosting user engagement across devices.</li>
@@ -64,8 +64,6 @@ I'm a passionate **Full-Stack Developer**
     </td>
   </tr>
 </table>
-
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
