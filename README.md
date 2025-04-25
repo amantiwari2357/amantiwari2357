@@ -42,28 +42,30 @@ I'm a passionate **Full-Stack Developer**
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 
 ## 💼 Professional Experience
-<table width="100%">
-  <tr>
-    <td valign="top" style="background-color:#0d1117; border-radius:10px; padding:20px; color:white; font-family:Arial, sans-serif;">
-      
-      <div align="center" style="margin-bottom: 15px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="60" alt="Web Dev Icon" /><br/>
-        <h3 style="margin: 10px 0 5px;">🔹 Web Developer Intern</h3>
-        <p style="margin: 0;"><strong>Digi India Solution</strong></p>
-        <p style="font-size: 14px; color: #c9d1d9; margin: 5px 0 0;">Software Development & Service Company | Remote</p>
-        <p style="font-size: 13px; color: #8b949e; margin: 2px 0 0;">Jan 2023 – Jun 2023</p>
-      </div>
-      
-      <ul style="font-size: 14px; padding-left: 20px; margin: 0;">
-        <li>Developed internal tools to streamline <strong>campaign monitoring workflows</strong>, improving reporting speed by 30%.</li>
-        <li>Created <strong>interactive admin dashboards</strong> using <strong>React.js</strong> and <strong>Chart.js</strong> for real-time analytics visualization.</li>
-        <li>Refined UI/UX and implemented fully <strong>responsive layouts</strong> using <strong>Tailwind CSS</strong>, boosting user engagement across devices.</li>
-        <li>Collaborated with cross-functional teams to debug and integrate <strong>RESTful APIs</strong> efficiently.</li>
-      </ul>
+## 💼 Web Developer Intern
 
-    </td>
-  </tr>
-</table>
+![Developer Icon](https://cdn-icons-png.flaticon.com/512/906/906175.png)  
+**Digi India Solution**  
+*Software Development & Service Company • Remote*  
+📅 *Jan 2023 – Jun 2023*
+
+---
+
+### 🔧 Responsibilities & Achievements:
+
+- 🚀 Developed internal tools to streamline **campaign monitoring workflows**, improving reporting speed by **30%**.
+- 📊 Built **interactive admin dashboards** using **React.js** and **Chart.js** for real-time analytics.
+- 🎨 Enhanced UI/UX and implemented **responsive layouts** with **Tailwind CSS**, increasing engagement across devices.
+- 🤝 Collaborated with cross-functional teams to debug and integrate **RESTful APIs** effectively.
+
+---
+
+### 🛠️ Tech Stack:
+![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/-Chart.js-F5788D?logo=chartdotjs&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/-REST_API-000000?logo=swagger&logoColor=white&style=for-the-badge)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
