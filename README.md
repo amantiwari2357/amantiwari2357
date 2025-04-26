@@ -67,7 +67,7 @@ I'm a passionate **Full-Stack Developer**
       <strong style="color:white;">High School</strong><br><br>
       <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
       <img src="https://img.shields.io/badge/School-+2 HIGH SCHOOL BHABUA-0d1117?style=flat-square&color=orange"><br>
-      <img src="https://img.shields.io/badge/Year-2016_–_2017-0d1117?style=flat-square&color=green">
+      <img src="https://img.shields.io/badge/Year-2019_–_2021-0d1117?style=flat-square&color=green">
     </td>
   </tr>
 </table>
