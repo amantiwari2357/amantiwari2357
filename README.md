@@ -59,17 +59,6 @@
 
 
 
-## 🤝 Let's Collaborate
-
-I'm always open to exciting freelance projects, startup collabs, or open-source contributions!  
-💬 Reach out if you want help with:
-
-- Admin dashboards  
-- Backend/API development  
-- MongoDB schema design  
-- Authentication and role-based access  
-- Performance optimization
-
 - ## 📊 GitHub Metrics & Insights
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" />
