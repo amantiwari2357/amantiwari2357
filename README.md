@@ -45,8 +45,6 @@ I'm a passionate **Full-Stack Developer**
 ### 🔧 Responsibilities & Achievements:
 
 - 🚀 Developed internal tools to streamline **campaign monitoring workflows**, improving reporting speed by **30%**.
-- 📊 Built **interactive admin dashboards** using **React.js** and **Chart.js** for real-time analytics.
-- 🎨 Enhanced UI/UX and implemented **responsive layouts** with **Tailwind CSS**, increasing engagement across devices.
 - 🤝 Collaborated with cross-functional teams to debug and integrate **RESTful APIs** effectively.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
@@ -54,9 +52,14 @@ I'm a passionate **Full-Stack Developer**
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech)** – Computer Science & Engineering  
-📍 *Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow*  
-🗓️ *Graduation Year: 2025*
+![Education](https://img.shields.io/badge/Education-B.Tech_Computer_Science-blue?style=flat-square)
+![College](https://img.shields.io/badge/University-XYZ_University-lightgrey?style=flat-square)
+![Graduation Year](https://img.shields.io/badge/Year-2019_–_2023-green?style=flat-square)
+![HSC](https://img.shields.io/badge/HSC-Science_Stream-yellow?style=flat-square)
+![School](https://img.shields.io/badge/School-DEF_High_School-orange?style=flat-square)
+![Course](https://img.shields.io/badge/Course-Full_Stack_Development-critical?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Coursera-blueviolet?style=flat-square)
+
 
 
 ## 🤝 Let's Collaborate
