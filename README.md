@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; text-align: center;">
 
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&w=1200" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHKGFktmHcACQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736432645926?e=1750896000&v=beta&t=JrIaLVZ3wq8K0Ao9xd3ZIJZDxUy5CvzW9q_QOF6Wsjw" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
 Hi, I'm Aman Tiwari
@@ -11,11 +11,7 @@ Hi, I'm Aman Tiwari
 <br>
 
 # 👋 Hi, I'm Aman Tiwari
-
-...
-
-<br>
-# 👋 Hi, I'm Aman Tiwari
+i
 
 I'm a passionate **Full-Stack Developer**
 📚 I’ve worked on diverse systems including:
