@@ -6,19 +6,6 @@
 </h1>
 </div>
 <br>
-I'm a passionate **Full-Stack Developer**
-📚 I’ve worked on diverse systems including:
-
-- 📊 **CRM Platforms**
-- 🎓 **Learning Management Systems (LMS)**
-- 🏫 **School Management Systems**
-- 🛒 **E-Commerce Dashboards**
-- 🌐 **Real-Time Data Apps**
-
-🌱 Currently exploring cloud deployments, system design, and AI integrations.
-
-[📄 Download My Resume](https://drive.google.com/file/d/14SRgyyDHhof4rNlkH6mKlYnp7RgrMVfy/view?usp=drive_link)
-
 ## 🧰 Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
