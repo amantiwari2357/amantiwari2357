@@ -40,15 +40,6 @@ I'm a passionate **Full-Stack Developer**
 ## 📈 GitHub Stats
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
-
-## 💼 Professional Experience
-## 💼 Web Developer Intern
-
-![Developer Icon](https://cdn-icons-png.flaticon.com/512/906/906175.png)  
-**Digi India Solution**  
-*Software Development & Service Company • Remote*  
-📅 *Jan 2023 – Jun 2023*
-
 ---
 
 ### 🔧 Responsibilities & Achievements:
