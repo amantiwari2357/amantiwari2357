@@ -6,9 +6,6 @@
 </h1>
 </div>
 <br>
-# 👋 Hi, I'm Aman Tiwari
-i
-
 I'm a passionate **Full-Stack Developer**
 📚 I’ve worked on diverse systems including:
 
