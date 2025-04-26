@@ -56,7 +56,7 @@ I'm a passionate **Full-Stack Developer**
 
 <table>
   <tr>
-    <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
+    <td align="left" style="background-color⚫; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
       <strong style="color:white;">Graduation</strong><br><br>
       <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-0d1117?style=flat-square&logoColor=white&color=blue"><br>
       <img src="https://img.shields.io/badge/University-XYZ_University-0d1117?style=flat-square&color=grey"><br>
