@@ -30,11 +30,6 @@
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 ---
 
-### 🔧 Responsibilities & Achievements:
-
-- 🚀 Developed internal tools to streamline **campaign monitoring workflows**, improving reporting speed by **30%**.
-- 🤝 Collaborated with cross-functional teams to debug and integrate **RESTful APIs** effectively.
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 
