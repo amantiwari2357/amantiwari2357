@@ -49,15 +49,6 @@ I'm a passionate **Full-Stack Developer**
 - 🎨 Enhanced UI/UX and implemented **responsive layouts** with **Tailwind CSS**, increasing engagement across devices.
 - 🤝 Collaborated with cross-functional teams to debug and integrate **RESTful APIs** effectively.
 
----
-
-### 🛠️ Tech Stack:
-![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/-Chart.js-F5788D?logo=chartdotjs&logoColor=white&style=for-the-badge)
-![REST API](https://img.shields.io/badge/-REST_API-000000?logo=swagger&logoColor=white&style=for-the-badge)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical)
 
 
