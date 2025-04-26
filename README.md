@@ -27,9 +27,6 @@
 ![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ---
-
-## 📈 GitHub Stats
-
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 ---
 
