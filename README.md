@@ -52,14 +52,27 @@ I'm a passionate **Full-Stack Developer**
 
 ## 🎓 Education
 
-![Education](https://img.shields.io/badge/Education-B.Tech_Computer_Science-blue?style=flat-square)
-![College](https://img.shields.io/badge/University-XYZ_University-lightgrey?style=flat-square)
-![Graduation Year](https://img.shields.io/badge/Year-2019_–_2023-green?style=flat-square)
-![HSC](https://img.shields.io/badge/HSC-Science_Stream-yellow?style=flat-square)
-![School](https://img.shields.io/badge/School-DEF_High_School-orange?style=flat-square)
-![Course](https://img.shields.io/badge/Course-Full_Stack_Development-critical?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Coursera-blueviolet?style=flat-square)
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:20px;">
+      <strong>Graduation</strong><br><br>
+      <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-blue?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/University-XYZ_University-lightgrey?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Year-2019_–_2023-green?style=flat-square">
+    </td>
+    <td width="50"></td>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:20px;">
+      <strong>High School</strong><br><br>
+      <img src="https://img.shields.io/badge/HSC-Science_Stream-yellow?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/School-DEF_High_School-orange?style=flat-square"><br>
+      <img src="https://img.shields.io/badge/Year-2016_–_2017-green?style=flat-square">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 ## 🤝 Let's Collaborate
