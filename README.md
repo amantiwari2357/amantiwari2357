@@ -56,23 +56,24 @@ I'm a passionate **Full-Stack Developer**
 
 <table>
   <tr>
-    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:20px;">
-      <strong>Graduation</strong><br><br>
-      <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-blue?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/University-XYZ_University-lightgrey?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Year-2019_–_2023-green?style=flat-square">
+    <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
+      <strong style="color:white;">Graduation</strong><br><br>
+      <img src="https://img.shields.io/badge/Education-B.Tech_Computer_Science-0d1117?style=flat-square&logoColor=white&color=blue"><br>
+      <img src="https://img.shields.io/badge/University-XYZ_University-0d1117?style=flat-square&color=grey"><br>
+      <img src="https://img.shields.io/badge/Year-2019_–_2023-0d1117?style=flat-square&color=green">
     </td>
     <td width="50"></td>
-    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:20px;">
-      <strong>High School</strong><br><br>
-      <img src="https://img.shields.io/badge/HSC-Science_Stream-yellow?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/School-DEF_High_School-orange?style=flat-square"><br>
-      <img src="https://img.shields.io/badge/Year-2016_–_2017-green?style=flat-square">
+    <td align="center" style="background-color:#000000; color:white; border:1px solid #444; border-radius:10px; padding:20px;">
+      <strong style="color:white;">High School</strong><br><br>
+      <img src="https://img.shields.io/badge/HSC-Science_Stream-0d1117?style=flat-square&color=yellow"><br>
+      <img src="https://img.shields.io/badge/School-DEF_High_School-0d1117?style=flat-square&color=orange"><br>
+      <img src="https://img.shields.io/badge/Year-2016_–_2017-0d1117?style=flat-square&color=green">
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 ## 🤝 Let's Collaborate
