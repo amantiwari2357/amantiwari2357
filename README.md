@@ -1,12 +1,18 @@
-<div align="center" style="position: relative; text-align: center; color: white;">
+<div align="center" style="position: relative; text-align: center;">
 
-<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&w=1200" alt="Laptop Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&w=1200" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
-<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2.5rem; background: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 10px;">
-Hi, I'm Aman Tiwari — Welcome to my GitHub!
+<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
+Hi, I'm Aman Tiwari
 </h1>
 
 </div>
+
+<br>
+
+# 👋 Hi, I'm Aman Tiwari
+
+...
 
 <br>
 # 👋 Hi, I'm Aman Tiwari
