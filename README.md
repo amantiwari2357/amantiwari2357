@@ -67,11 +67,16 @@
 
 </div>
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<div>
+  <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif" />
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+  <i>Loved the project? You can donate to support it:</i><br><br>
 
+  <p>Paytm Number: <b>9031359720</b></p>
+  <p>or scan below QR:</p>
+  <img src="assets/paytm-qr-code.png" alt="Paytm QR" width="200" />
 </div>
+
 
 
 ## Contribute
