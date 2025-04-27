@@ -29,6 +29,13 @@
 ---
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 ---
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/digiindia2025/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" width="815" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
@@ -59,15 +66,6 @@
 </table>
 
 </div>
-
-<i>A curated list of awesome Github Profile READMEs</i>
-
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/digiindia2025/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
