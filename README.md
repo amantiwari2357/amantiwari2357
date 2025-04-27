@@ -31,7 +31,18 @@
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" width="815" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=500)
+<!-- GitHub Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical" 
+  width="600" 
+/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=500" 
+  width="500" 
+/>
+
 
 
 
