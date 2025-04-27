@@ -34,7 +34,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=500)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digiindia2025&theme=radical" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=450)
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
 
