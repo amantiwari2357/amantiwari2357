@@ -81,7 +81,7 @@
 <a href="https://github.com/digiindia2025/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/issues-closed-raw/digiindia2025/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
 </a>
-
+<hr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" width="815" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical)<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digiindia2025&theme=radical&utcOffset=5" />
