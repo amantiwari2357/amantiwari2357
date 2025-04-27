@@ -1,4 +1,4 @@
-<div align="center" style="position: relative; text-align: center;">
+AA<div align="center" style="position: relative; text-align: center;">
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHKGFktmHcACQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736432645926?e=1750896000&v=beta&t=JrIaLVZ3wq8K0Ao9xd3ZIJZDxUy5CvzW9q_QOF6Wsjw" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
@@ -73,10 +73,7 @@
   <i>Loved the project? You can donate to support it:</i><br><br>
 
   <p>Paytm Number: <b>9031359720</b></p>
-  <p>or scan below QR:</p>
-  <img src="assets/paytm-qr-code.png" alt="Paytm QR" width="200" />
 </div>
-
 
 
 ## Contribute
@@ -85,13 +82,13 @@ Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 ## Special Thanks 🙇
-- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+- [Aman Tiwari](https://github.com/digiindia2025) for making the amazing site for this repo!
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Aman Tiwari](https://digiindia2025.tech/) has waived all copyright and related or neighboring rights to this work.
 
 ## 🌐 Online Presence
 
