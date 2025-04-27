@@ -78,6 +78,18 @@
 <a href="https://github.com/digiindia2025/awesome-github-profile-readme">
   <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
 </a>
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
+</a>
+
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/issues-closed-raw/digiindia2025/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
+</a>
+
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/branches/digiindia2025/awesome-github-profile-readme" alt="Branches Count Badge"/>
+</a>
+
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" width="815" />
