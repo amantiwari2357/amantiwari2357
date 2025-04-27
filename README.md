@@ -6,6 +6,7 @@
 </h1>
 </div>
 <hr>
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -26,8 +27,9 @@
 ![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=linux)
 ![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
-<hr>
+
 ---
+<hr>
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=digiindia2025&show_icons=true&theme=radical) <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digiindia2025&theme=radical" />
 ---
 <!-- Existing badges -->
