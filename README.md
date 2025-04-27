@@ -50,10 +50,6 @@
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348">
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/digiindia2025/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>
-</a>
-
 <!-- New badges -->
 <a href="https://github.com/digiindia2025/awesome-github-profile-readme/commits/main">
   <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
