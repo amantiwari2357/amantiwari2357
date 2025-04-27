@@ -34,13 +34,13 @@
 <!-- GitHub Streak -->
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=digiindia2025&theme=radical" 
-  width="600" 
+  width="400" 
 />
 
 <!-- Top Languages -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiindia2025&layout=compact&theme=radical&card_width=500" 
-  width="500" 
+  width="400" 
 />
 
 
