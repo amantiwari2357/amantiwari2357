@@ -1,4 +1,4 @@
-AA<div align="center" style="position: relative; text-align: center;">
+<div align="center" style="position: relative; text-align: center;">
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHKGFktmHcACQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736432645926?e=1750896000&v=beta&t=JrIaLVZ3wq8K0Ao9xd3ZIJZDxUy5CvzW9q_QOF6Wsjw" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
@@ -69,7 +69,7 @@ AA<div align="center" style="position: relative; text-align: center;">
 
 ## 🌐 Online Presence
 
-- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)*  
+- 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)* 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
 - 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
 - 💻 [**GitHub**](https://github.com/digiindia2025)  
