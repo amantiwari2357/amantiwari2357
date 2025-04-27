@@ -66,6 +66,18 @@
 <a href="https://github.com/digiindia2025/awesome-github-profile-readme/releases">
   <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
+<!-- 3 more new badges -->
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
+</a>
+
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
+</a>
+
+<a href="https://github.com/digiindia2025/awesome-github-profile-readme">
+  <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
+</a>
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digiindia2025&theme=radical" width="815" />
