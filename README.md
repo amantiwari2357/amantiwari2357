@@ -63,10 +63,6 @@
   <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
 </a>
 
-<a href="https://github.com/digiindia2025/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/closed-issues/digiindia2025/awesome-github-profile-readme" alt="Closed Issues Badge"/>
-</a>
-
 <a href="https://github.com/digiindia2025/awesome-github-profile-readme/releases">
   <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
