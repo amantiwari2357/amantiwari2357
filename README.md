@@ -99,8 +99,8 @@
 
   <hr>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
-
+ [![trophy](https://github-profile-trophy.vercel.app/?username=digiindia2025&theme=radical&row=1&column=7)](https://github.com/digiindia2025)
+ 
 <hr>
 
   <div align="center">
