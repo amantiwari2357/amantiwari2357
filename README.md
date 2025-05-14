@@ -27,6 +27,8 @@
 ![VPS](https://img.shields.io/badge/-VPS-black?style=flat-square&logo=linux)
 ![Deployment](https://img.shields.io/badge/-Deployment-black?style=flat-square&logo=vercel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+![Reddish](https://img.shields.io/badge/-Reddish-ff4757?style=flat-square&logoColor=white)
+
 
 ---
 
