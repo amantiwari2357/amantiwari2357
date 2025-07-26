@@ -29,6 +29,13 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
 ![Reddish](https://img.shields.io/badge/-Reddish-ff4757?style=flat-square&logoColor=white)
 
+<!-- New Badges -->
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+
+
 
 ---
 
