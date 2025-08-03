@@ -45,55 +45,55 @@
 <hr>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/stargazers">
-  <img src="https://img.shields.io/github/stars/digiindia2025/awesome-github-profile-readme" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/stars/amantiwari2357/awesome-github-profile-readme" alt="Stars Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/network/members">
-  <img src="https://img.shields.io/github/forks/digiindia2025/awesome-github-profile-readme" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/forks/amantiwari2357/awesome-github-profile-readme" alt="Forks Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/pulls">
-  <img src="https://img.shields.io/github/issues-pr/digiindia2025/awesome-github-profile-readme" alt="Pull Requests Badge"/>
+  <img src="https://img.shields.io/github/issues-pr/amantiwari2357/awesome-github-profile-readme" alt="Pull Requests Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/issues/digiindia2025/awesome-github-profile-readme" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/issues/amantiwari2357/awesome-github-profile-readme" alt="Issues Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/graphs/contributors">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/digiindia2025/awesome-github-profile-readme?color=2b9348">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/amantiwari2357/awesome-github-profile-readme?color=2b9348">
 </a>
 
 <!-- New badges -->
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/commits/main">
-  <img src="https://img.shields.io/github/last-commit/digiindia2025/awesome-github-profile-readme" alt="Last Commit Badge"/>
+  <img src="https://img.shields.io/github/last-commit/amantiwari2357/awesome-github-profile-readme" alt="Last Commit Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/repo-size/digiindia2025/awesome-github-profile-readme" alt="Repo Size Badge"/>
+  <img src="https://img.shields.io/github/repo-size/amantiwari2357/awesome-github-profile-readme" alt="Repo Size Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme/releases">
-  <img src="https://img.shields.io/github/v/release/digiindia2025/awesome-github-profile-readme" alt="Latest Release Badge"/>
+  <img src="https://img.shields.io/github/v/release/amantiwari2357/awesome-github-profile-readme" alt="Latest Release Badge"/>
 </a>
 <!-- 3 more new badges -->
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/count/digiindia2025/awesome-github-profile-readme" alt="Languages Count Badge"/>
+  <img src="https://img.shields.io/github/languages/count/amantiwari2357/awesome-github-profile-readme" alt="Languages Count Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/languages/top/digiindia2025/awesome-github-profile-readme" alt="Top Language Badge"/>
+  <img src="https://img.shields.io/github/languages/top/amantiwari2357/awesome-github-profile-readme" alt="Top Language Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/watchers/digiindia2025/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
+  <img src="https://img.shields.io/github/watchers/amantiwari2357/awesome-github-profile-readme?label=Watchers" alt="Watchers Badge"/>
 </a>
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/commit-activity/m/digiindia2025/awesome-github-profile-readme" alt="Commit Activity Badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/amantiwari2357/awesome-github-profile-readme" alt="Commit Activity Badge"/>
 </a>
 
 <a href="https://github.com/amantiwari2357/awesome-github-profile-readme">
-  <img src="https://img.shields.io/github/issues-closed-raw/digiindia2025/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
+  <img src="https://img.shields.io/github/issues-closed-raw/amantiwari2357/awesome-github-profile-readme" alt="Total Closed Issues Badge"/>
 </a>
 <hr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amantiwari2357&theme=radical" width="815" />
@@ -141,7 +141,7 @@
 - 🔗 [**Portfolio Website**](https://your-website.com) *(Showcase of my best work)* 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/aman-tiwari-91b869225)  
 - 🐦 [**Twitter (X)**](https://x.com/amantiwari2357)  
-- 💻 [**GitHub**](https://github.com/digiindia2025)  
+- 💻 [**GitHub**](https://github.com/amantiwari2357)  
 - 📬 [**Email Me**](mailto:amankumartiwari5255@gmail.com)
 
 <hr>
