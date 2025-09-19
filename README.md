@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; text-align: center;">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF4Tz9YENuXBg/profile-displaybackgroundimage-shrink_200_800/B56Zgn_csxH0AY-/0/1753017601616?e=1756339200&v=beta&t=XjqGZZGBrpaz-MdgamPtNl_yPJfB8sQPsM_qPlWvYQ8" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQF4Tz9YENuXBg/profile-displaybackgroundimage-shrink_200_800/B56Zgn_csxH0AY-/0/1753017601616?e=1761177600&v=beta&t=f__pYxagoRCsfiJaszqluEWHEIfBTcCc0-OAa14vqAQ" alt="Full Stack Developer Banner" style="width:100%; border-radius:10px;"/>
 
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3rem; background: rgba(0, 0, 0, 0.6); padding: 15px 30px; border-radius: 12px;">
 </h1>
